@@ -43,6 +43,7 @@ PyPI <https://pypi.org/project/adafruit-circuitpython-fona/>`_. To install for c
 
 To install system-wide (this may be required in some cases):
 
+
 .. code-block:: shell
 
     sudo pip3 install adafruit-circuitpython-fona
